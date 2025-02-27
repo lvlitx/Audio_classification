@@ -1,0 +1,15 @@
+# Default ignores
+data/
+spectrograms/
+trained_models/
+*.wav
+*.mp3
+*.png
+__pycache__/
+*.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+ENV/
+env.bak/

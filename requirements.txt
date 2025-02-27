@@ -1,0 +1,5 @@
+fastai>=2.7.12
+librosa>=0.10.1
+matplotlib>=3.7.2
+torch>=2.1.0
+numpy>=1.24.4
